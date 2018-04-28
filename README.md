@@ -1,1 +1,1 @@
-MS-Apriori for mining frequent item sets
+MS-Apriori for mining frequent itemset and association rule from transactional data.
